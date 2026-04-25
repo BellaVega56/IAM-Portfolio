@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,email,department,title,manager_email,location,hire_date,employment_type,cost_center,security_clearance
+E001,Sarah,Chen,sarah.chen@acmelabs.test,Engineering,Senior Software Engineer,michael.torres@acmelabs.test,San Francisco,2023-03-15,full-time,ENG-100,standard
+E002,Michael,Torres,michael.torres@acmelabs.test,Engineering,Engineering Manager,jennifer.walsh@acmelabs.test,San Francisco,2021-06-01,full-time,ENG-100,elevated
+E003,James,Wilson,james.wilson@acmelabs.test,Engineering,Software Engineer,michael.torres@acmelabs.test,San Francisco,2024-01-10,full-time,ENG-100,standard
+E004,Emily,Rodriguez,emily.rodriguez@acmelabs.test,Engineering,DevOps Engineer,michael.torres@acmelabs.test,Austin,2023-08-20,full-time,ENG-200,elevated
+E005,David,Kim,david.kim@acmelabs.test,Engineering,Junior Developer,sarah.chen@acmelabs.test,San Francisco,2025-02-01,full-time,ENG-100,none
+E006,Jessica,Patel,jessica.patel@acmelabs.test,Engineering,QA Engineer,michael.torres@acmelabs.test,Austin,2024-05-15,contractor,ENG-200,standard
+E007,Ryan,O'Brien,ryan.obrien@acmelabs.test,Engineering,Security Engineer,michael.torres@acmelabs.test,San Francisco,2022-11-01,full-time,ENG-300,privileged
+E008,Amanda,Foster,amanda.foster@acmelabs.test,Engineering,Data Engineer,sarah.chen@acmelabs.test,Remote,2024-09-01,full-time,ENG-400,standard
+E009,Kevin,Nguyen,kevin.nguyen@acmelabs.test,Sales,Account Executive,lisa.martinez@acmelabs.test,New York,2023-04-01,full-time,SAL-100,none
+E010,Lisa,Martinez,lisa.martinez@acmelabs.test,Sales,Sales Director,jennifer.walsh@acmelabs.test,New York,2020-08-15,full-time,SAL-100,standard
+E011,Brandon,Cooper,brandon.cooper@acmelabs.test,Sales,Sales Representative,lisa.martinez@acmelabs.test,Chicago,2024-02-20,full-time,SAL-200,none
+E012,Michelle,Thompson,michelle.thompson@acmelabs.test,Sales,Account Manager,lisa.martinez@acmelabs.test,New York,2023-09-10,full-time,SAL-100,none
+E013,Christopher,Lee,christopher.lee@acmelabs.test,Sales,Business Development,lisa.martinez@acmelabs.test,Los Angeles,2024-06-01,contractor,SAL-300,none
+E014,Stephanie,Garcia,stephanie.garcia@acmelabs.test,Sales,Sales Operations,lisa.martinez@acmelabs.test,New York,2022-03-15,full-time,SAL-100,standard
+E015,Daniel,Wright,daniel.wright@acmelabs.test,Marketing,Marketing Manager,rachel.adams@acmelabs.test,Los Angeles,2021-10-01,full-time,MKT-100,standard
+E016,Rachel,Adams,rachel.adams@acmelabs.test,Marketing,VP Marketing,jennifer.walsh@acmelabs.test,Los Angeles,2019-05-20,full-time,MKT-100,elevated
+E017,Tyler,Bennett,tyler.bennett@acmelabs.test,Marketing,Content Strategist,daniel.wright@acmelabs.test,Remote,2024-03-01,full-time,MKT-200,none
+E018,Megan,Clark,megan.clark@acmelabs.test,Marketing,Social Media Manager,daniel.wright@acmelabs.test,Los Angeles,2023-07-15,full-time,MKT-200,none
+E019,Justin,Hall,justin.hall@acmelabs.test,Marketing,SEO Specialist,daniel.wright@acmelabs.test,Remote,2024-08-01,contractor,MKT-200,none
+E020,Lauren,Young,lauren.young@acmelabs.test,Marketing,Graphic Designer,daniel.wright@acmelabs.test,Los Angeles,2023-11-20,full-time,MKT-300,none
+E021,Andrew,King,andrew.king@acmelabs.test,Finance,Financial Analyst,patricia.morgan@acmelabs.test,Chicago,2022-06-01,full-time,FIN-100,standard
+E022,Patricia,Morgan,patricia.morgan@acmelabs.test,Finance,CFO,jennifer.walsh@acmelabs.test,Chicago,2018-01-15,full-time,FIN-100,privileged
+E023,Joshua,Scott,joshua.scott@acmelabs.test,Finance,Accountant,patricia.morgan@acmelabs.test,Chicago,2023-02-01,full-time,FIN-200,standard
+E024,Samantha,Green,samantha.green@acmelabs.test,Finance,AP Clerk,joshua.scott@acmelabs.test,Chicago,2024-04-15,full-time,FIN-200,standard
+E025,Nicholas,Baker,nicholas.baker@acmelabs.test,Finance,AP Approver,patricia.morgan@acmelabs.test,Chicago,2021-09-01,full-time,FIN-200,elevated
+E026,Ashley,Nelson,ashley.nelson@acmelabs.test,Finance,Payroll Specialist,patricia.morgan@acmelabs.test,Chicago,2022-12-01,full-time,FIN-300,elevated
+E027,Matthew,Carter,matthew.carter@acmelabs.test,HR,HR Manager,sandra.mitchell@acmelabs.test,San Francisco,2020-04-01,full-time,HR-100,elevated
+E028,Sandra,Mitchell,sandra.mitchell@acmelabs.test,HR,VP People,jennifer.walsh@acmelabs.test,San Francisco,2019-02-15,full-time,HR-100,privileged
+E029,Brittany,Phillips,brittany.phillips@acmelabs.test,HR,Recruiter,matthew.carter@acmelabs.test,San Francisco,2023-05-20,full-time,HR-200,standard
+E030,Jacob,Evans,jacob.evans@acmelabs.test,HR,HR Coordinator,matthew.carter@acmelabs.test,Remote,2024-07-01,full-time,HR-200,standard
+E031,Nicole,Turner,nicole.turner@acmelabs.test,HR,Benefits Administrator,matthew.carter@acmelabs.test,San Francisco,2022-08-15,full-time,HR-300,standard
+E032,Eric,Campbell,eric.campbell@acmelabs.test,Operations,Operations Manager,robert.parker@acmelabs.test,Austin,2021-03-01,full-time,OPS-100,standard
+E033,Robert,Parker,robert.parker@acmelabs.test,Operations,COO,jennifer.walsh@acmelabs.test,Austin,2017-11-01,full-time,OPS-100,privileged
+E034,Heather,Murphy,heather.murphy@acmelabs.test,Operations,Facilities Coordinator,eric.campbell@acmelabs.test,Austin,2023-10-15,full-time,OPS-200,none
+E035,Adam,Rivera,adam.rivera@acmelabs.test,Operations,IT Support,eric.campbell@acmelabs.test,San Francisco,2024-01-20,full-time,OPS-300,standard
+E036,Christina,Cox,christina.cox@acmelabs.test,Operations,Office Manager,eric.campbell@acmelabs.test,New York,2022-05-01,full-time,OPS-200,none
+E037,Steven,Howard,steven.howard@acmelabs.test,Legal,General Counsel,jennifer.walsh@acmelabs.test,New York,2019-08-01,full-time,LEG-100,privileged
+E038,Kimberly,Ward,kimberly.ward@acmelabs.test,Legal,Corporate Counsel,steven.howard@acmelabs.test,New York,2021-12-15,full-time,LEG-100,elevated
+E039,Jonathan,Brooks,jonathan.brooks@acmelabs.test,Legal,Paralegal,kimberly.ward@acmelabs.test,New York,2023-06-01,full-time,LEG-200,standard
+E040,Melissa,Gray,melissa.gray@acmelabs.test,Legal,Compliance Officer,steven.howard@acmelabs.test,Chicago,2022-02-15,full-time,LEG-300,elevated
+E041,Brian,Price,brian.price@acmelabs.test,Customer Success,CS Manager,angela.simmons@acmelabs.test,Remote,2021-07-01,full-time,CS-100,standard
+E042,Angela,Simmons,angela.simmons@acmelabs.test,Customer Success,VP Customer Success,jennifer.walsh@acmelabs.test,San Francisco,2020-01-15,full-time,CS-100,elevated
+E043,Timothy,Russell,timothy.russell@acmelabs.test,Customer Success,Customer Success Rep,brian.price@acmelabs.test,Remote,2024-02-01,full-time,CS-200,none
+E044,Rebecca,Griffin,rebecca.griffin@acmelabs.test,Customer Success,Onboarding Specialist,brian.price@acmelabs.test,Austin,2023-12-01,full-time,CS-200,none
+E045,Jason,Diaz,jason.diaz@acmelabs.test,Customer Success,Support Engineer,brian.price@acmelabs.test,Remote,2024-05-01,contractor,CS-300,standard
+E046,Jennifer,Walsh,jennifer.walsh@acmelabs.test,Executive,CEO,board@acmelabs.test,San Francisco,2015-06-01,full-time,EXEC-100,privileged
+E047,Marcus,Hayes,marcus.hayes@acmelabs.test,Engineering,Platform Engineer,michael.torres@acmelabs.test,Remote,2025-04-01,full-time,ENG-100,standard
+E048,Olivia,Barnes,olivia.barnes@acmelabs.test,Marketing,Product Marketing,daniel.wright@acmelabs.test,San Francisco,2025-05-15,full-time,MKT-100,none
+E049,Nathan,Coleman,nathan.coleman@acmelabs.test,Sales,Sales Intern,lisa.martinez@acmelabs.test,New York,2025-06-01,intern,SAL-100,none
+E050,Victoria,Reed,victoria.reed@acmelabs.test,Finance,Finance Intern,joshua.scott@acmelabs.test,Chicago,2025-06-01,intern,FIN-200,none
