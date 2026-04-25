@@ -1,2 +1,2 @@
-# Okta-Portfolio
-12-week IAM Okta engineering portfolio 
+# IAM-Portfolio
+Okta + Entra ID IAM Portfolio 
