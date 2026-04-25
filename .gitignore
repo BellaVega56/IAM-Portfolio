@@ -1,0 +1,46 @@
+# Secrets and credentials
+*.tfvars
+.env
+*secret*
+*token*
+*credential*
+*.pem
+*.key
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# PowerShell
+*.ps1xml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Don't commit real employee data or screenshots with sensitive info
+**/real-data/
+**/sensitive/
